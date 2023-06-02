@@ -19,4 +19,23 @@ header {
 .margin-1 {
     font-size: 30;
     text-align: center;
+    background-color: rgb(0, 64, 255);
+    color: antiquewhite;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+/*this needs to be updated later, since it's overlapping with the rest of the list*/
+.contacts {
+    border: 20px;
+    color: brown;
+    background-color: aliceblue;
+    padding: 10px 10px; 
+	border-radius: 10px;
+}
+.lorem-text {
+    font-size: 20px;
+    color: black;
+    font-style: italic;
 }
