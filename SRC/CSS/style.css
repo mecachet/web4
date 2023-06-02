@@ -14,7 +14,9 @@ header {
     max-width: 900px;
     height: auto;
     align-content: center;
-    display: flex;
-  justify-content: center; 
-  align-items: center; 
+    display: flex; 
+}
+.margin-1 {
+    font-size: 30;
+    text-align: center;
 }
