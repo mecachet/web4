@@ -1,5 +1,15 @@
 header {
-	background-color: grey;
+	background-color: rgb(91, 200, 255);
 	height: 300px;
 	padding: 50px;
+}
+#intro-title {
+background-color: aqua;
+border: 5px lavender;
+margin: 50px 30px 20px 40px;
+padding: 30px;
+}
+.main-image {
+    max-width: 900px;
+    height: auto;
 }
