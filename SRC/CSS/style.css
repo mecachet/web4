@@ -1,18 +1,5 @@
-*{
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-}
-
-a{
-	text-decoration: none;
-}
-
-ul{
-	list-style-type: none;
-}
-
-header{
+header {
 	background-color: grey;
 	height: 300px;
 	padding: 50px;
+}
