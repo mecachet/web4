@@ -11,3 +11,8 @@ a{
 ul{
 	list-style-type: none;
 }
+
+header{
+	background-color: grey;
+	height: 300px;
+	padding: 50px;
