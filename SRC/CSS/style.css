@@ -2,14 +2,19 @@ header {
 	background-color: rgb(91, 200, 255);
 	height: 300px;
 	padding: 50px;
+    border: double 5px rgb(rgb(1, 127, 155), green, blue);
 }
 #intro-title {
-background-color: aqua;
-border: 5px lavender;
-margin: 50px 30px 20px 40px;
-padding: 30px;
+    background-color: aqua;
+    border: solid 5px rgb(5, 189, 189);
+    margin: 50px 30px 20px 40px;
+    padding: 30px;
 }
 .main-image {
     max-width: 900px;
     height: auto;
+    align-content: center;
+    display: flex;
+  justify-content: center; 
+  align-items: center; 
 }
